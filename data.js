@@ -50,3 +50,5 @@ exports.reduceDataThree = [
     hobby: 'travelling'
   },
 ];
+
+exports.reduceDataFour = "The quick brown fox jumps over the lofty fence";
