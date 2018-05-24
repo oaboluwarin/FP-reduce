@@ -21,4 +21,32 @@ exports.reduceDataTwo = [
     name: 'tolulope',
     hobby: 'travelling'
   },
-]
+];
+
+exports.reduceDataThree = [
+  {
+    id: 'jhahsdkjekjkd',
+    name: 'oreoluwa',
+    hobby: 'reading'
+  },
+  {
+    id: 'hyyeusjdnnvdr',
+    name: 'rotimi',
+    hobby: 'surfing'
+  },
+  {
+    id: 'pwerusjfgnvty',
+    name: 'pelumi',
+    hobby: 'speaking'
+  },
+  {
+    id: 'pwaqrtjdnnxzr',
+    name: 'tobi',
+    hobby: 'driving'
+  },
+  {
+    id: 'yectusglpnvio',
+    name: 'tolulope',
+    hobby: 'travelling'
+  },
+];
